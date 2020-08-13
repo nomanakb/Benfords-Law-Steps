@@ -1,4 +1,4 @@
-# benfordlawsteps
+# Benfords-Law-Steps
 
 This is a quick test for Benford's law using real-world data.
 
